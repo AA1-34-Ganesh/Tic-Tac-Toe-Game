@@ -173,7 +173,7 @@ public class TicTacToe {
                 System.out.println("The game is a draw!");
             }
         }
-        scan.close();
+        
     }
 }
 
